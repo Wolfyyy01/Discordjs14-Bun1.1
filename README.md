@@ -9,7 +9,7 @@ Before running the bot, make sure you have installed `bun` from [https://bun.sh]
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/Wolfyyy01/Discordjs14-Bun1.1
    ```
 
 2. Navigate to the cloned repository:
