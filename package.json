@@ -1,0 +1,21 @@
+{
+  "name": "youtubetutorial",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "scripts": {
+    "dev": "bun --watch ."
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commandkit": "^0.1.10",
+    "discord.js": "^14.15.2",
+    "mongoose": "^8.4.0",
+    "zod": "^3.23.8"
+  }
+}
