@@ -15,7 +15,7 @@ Before running the bot, make sure you have installed `bun` from [https://bun.sh]
 2. Navigate to the cloned repository:
 
    ```bash
-   cd your_repository
+   cd Discordjs14-Bun1.1
    ```
 
 3. Install dependencies using `bun`:
